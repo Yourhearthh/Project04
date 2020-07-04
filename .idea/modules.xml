@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Project04.iml" filepath="$PROJECT_DIR$/Project04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StudentProject/StudentProject.iml" filepath="$PROJECT_DIR$/StudentProject/StudentProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/notepad plus/notepad plus.iml" filepath="$PROJECT_DIR$/notepad plus/notepad plus.iml" />
     </modules>
   </component>
